@@ -1,0 +1,20 @@
+001,Zoom H6 Recorder,Ashley,2025-06-01,2025-06-07
+002,Sennheiser MKH 416,Chris,2025-06-02,2025-06-09
+003,Pro Tools Dongle,Jamie,2025-06-03,2025-06-10
+004,Field Mixer,Ben,2025-06-04,2025-06-11
+005,Boom Pole,Emily,2025-06-05,2025-06-12
+006,Sound Blanket,Taylor,2025-06-06,2025-06-13
+007,Shotgun Mic Mount,Liam,2025-06-07,2025-06-14
+008,Wireless Lav Set,Kai,2025-06-08,2025-06-15
+009,Zoom F8n II,Jordan,2025-06-09,2025-06-16
+010,Logic Pro License,Skyler,2025-06-10,2025-06-17
+011,Audio Interface,Avery,2025-06-11,2025-06-18
+012,Pop Filter,Drew,2025-06-12,2025-06-19
+013,Studio Headphones,Reese,2025-06-13,2025-06-20
+014,Game Controller Mic Rig,Charlie,2025-06-14,2025-06-21
+015,Lavalier Wind Muffs,Sam,2025-06-15,2025-06-22
+016,Portable Monitor,Alex,2025-06-16,2025-06-23
+017,Sound FX Library Drive,Jules,2025-06-17,2025-06-24
+018,SM7B Mic,Riley,2025-06-18,2025-06-25
+019,Acoustic Panel Kit,Dani,2025-06-19,2025-06-26
+020,Focusrite Scarlett 2i2,Casey,2025-06-20,2025-06-27
